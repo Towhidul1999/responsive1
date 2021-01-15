@@ -1,0 +1,37 @@
+.container{
+    width: 1200px;
+    /* border: 2px solid green; */
+    margin-top: 10px;
+    background-color: rgb(187, 248, 248);
+}
+
+.image img{
+    width: 400px;
+    height: 300px;
+}
+
+.orange{
+    color: #FABE4C;
+}
+
+.blue{
+    color: #363958
+}
+
+.font{
+    font-size: 60px;
+}
+
+.right{
+    float: right;
+}
+
+.bottom-text img{
+    width: 150px;
+    height: 100px;
+}
+
+.bottom-image img{
+    width: 400px;
+    height: 500px;
+}
